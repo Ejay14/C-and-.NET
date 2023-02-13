@@ -1,0 +1,20 @@
+C:\Users\Tsediso\source\repos\C_Sharp_WindowsFormsApp\bin\Debug\C_Sharp_WindowsFormsApp.exe.config
+C:\Users\Tsediso\source\repos\C_Sharp_WindowsFormsApp\bin\Debug\C_Sharp_WindowsFormsApp.exe
+C:\Users\Tsediso\source\repos\C_Sharp_WindowsFormsApp\bin\Debug\C_Sharp_WindowsFormsApp.pdb
+C:\Users\Tsediso\source\repos\C_Sharp_WindowsFormsApp\obj\Debug\C_Sharp_WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Tsediso\source\repos\C_Sharp_WindowsFormsApp\obj\Debug\C_Sharp_WindowsFormsApp.Form1.resources
+C:\Users\Tsediso\source\repos\C_Sharp_WindowsFormsApp\obj\Debug\C_Sharp_WindowsFormsApp.Properties.Resources.resources
+C:\Users\Tsediso\source\repos\C_Sharp_WindowsFormsApp\obj\Debug\C_Sharp_WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Tsediso\source\repos\C_Sharp_WindowsFormsApp\obj\Debug\C_Sharp_WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Tsediso\source\repos\C_Sharp_WindowsFormsApp\obj\Debug\C_Sharp_WindowsFormsApp.exe
+C:\Users\Tsediso\source\repos\C_Sharp_WindowsFormsApp\obj\Debug\C_Sharp_WindowsFormsApp.pdb
+\\technet.wf.uct.ac.za\profiledata$\MVDJAB001\Desktop\null (1)\C_Sharp_WindowsFormsApp\bin\Debug\C_Sharp_WindowsFormsApp.exe.config
+\\technet.wf.uct.ac.za\profiledata$\MVDJAB001\Desktop\null (1)\C_Sharp_WindowsFormsApp\bin\Debug\C_Sharp_WindowsFormsApp.exe
+\\technet.wf.uct.ac.za\profiledata$\MVDJAB001\Desktop\null (1)\C_Sharp_WindowsFormsApp\bin\Debug\C_Sharp_WindowsFormsApp.pdb
+\\technet.wf.uct.ac.za\profiledata$\MVDJAB001\Desktop\null (1)\C_Sharp_WindowsFormsApp\obj\Debug\C_Sharp_WindowsFormsApp.csprojAssemblyReference.cache
+\\technet.wf.uct.ac.za\profiledata$\MVDJAB001\Desktop\null (1)\C_Sharp_WindowsFormsApp\obj\Debug\C_Sharp_WindowsFormsApp.Form1.resources
+\\technet.wf.uct.ac.za\profiledata$\MVDJAB001\Desktop\null (1)\C_Sharp_WindowsFormsApp\obj\Debug\C_Sharp_WindowsFormsApp.Properties.Resources.resources
+\\technet.wf.uct.ac.za\profiledata$\MVDJAB001\Desktop\null (1)\C_Sharp_WindowsFormsApp\obj\Debug\C_Sharp_WindowsFormsApp.csproj.GenerateResource.cache
+\\technet.wf.uct.ac.za\profiledata$\MVDJAB001\Desktop\null (1)\C_Sharp_WindowsFormsApp\obj\Debug\C_Sharp_WindowsFormsApp.csproj.CoreCompileInputs.cache
+\\technet.wf.uct.ac.za\profiledata$\MVDJAB001\Desktop\null (1)\C_Sharp_WindowsFormsApp\obj\Debug\C_Sharp_WindowsFormsApp.exe
+\\technet.wf.uct.ac.za\profiledata$\MVDJAB001\Desktop\null (1)\C_Sharp_WindowsFormsApp\obj\Debug\C_Sharp_WindowsFormsApp.pdb

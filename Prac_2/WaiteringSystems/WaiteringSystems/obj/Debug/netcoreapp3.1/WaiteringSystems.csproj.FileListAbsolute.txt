@@ -1,0 +1,13 @@
+C:\Users\MVDJAB001\source\repos\WaiteringSystems\WaiteringSystems\bin\Debug\netcoreapp3.1\WaiteringSystems.exe
+C:\Users\MVDJAB001\source\repos\WaiteringSystems\WaiteringSystems\bin\Debug\netcoreapp3.1\WaiteringSystems.deps.json
+C:\Users\MVDJAB001\source\repos\WaiteringSystems\WaiteringSystems\bin\Debug\netcoreapp3.1\WaiteringSystems.runtimeconfig.json
+C:\Users\MVDJAB001\source\repos\WaiteringSystems\WaiteringSystems\bin\Debug\netcoreapp3.1\WaiteringSystems.runtimeconfig.dev.json
+C:\Users\MVDJAB001\source\repos\WaiteringSystems\WaiteringSystems\bin\Debug\netcoreapp3.1\WaiteringSystems.dll
+C:\Users\MVDJAB001\source\repos\WaiteringSystems\WaiteringSystems\bin\Debug\netcoreapp3.1\WaiteringSystems.pdb
+C:\Users\MVDJAB001\source\repos\WaiteringSystems\WaiteringSystems\obj\Debug\netcoreapp3.1\WaiteringSystems.csprojAssemblyReference.cache
+C:\Users\MVDJAB001\source\repos\WaiteringSystems\WaiteringSystems\obj\Debug\netcoreapp3.1\WaiteringSystems.AssemblyInfoInputs.cache
+C:\Users\MVDJAB001\source\repos\WaiteringSystems\WaiteringSystems\obj\Debug\netcoreapp3.1\WaiteringSystems.AssemblyInfo.cs
+C:\Users\MVDJAB001\source\repos\WaiteringSystems\WaiteringSystems\obj\Debug\netcoreapp3.1\WaiteringSystems.csproj.CoreCompileInputs.cache
+C:\Users\MVDJAB001\source\repos\WaiteringSystems\WaiteringSystems\obj\Debug\netcoreapp3.1\WaiteringSystems.dll
+C:\Users\MVDJAB001\source\repos\WaiteringSystems\WaiteringSystems\obj\Debug\netcoreapp3.1\WaiteringSystems.pdb
+C:\Users\MVDJAB001\source\repos\WaiteringSystems\WaiteringSystems\obj\Debug\netcoreapp3.1\WaiteringSystems.genruntimeconfig.cache
